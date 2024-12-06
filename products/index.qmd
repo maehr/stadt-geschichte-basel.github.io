@@ -1,0 +1,5 @@
+---
+title: "Forschungsdatenmanagement und digitale Vermittlung"
+listing: grid
+# categories: true
+---

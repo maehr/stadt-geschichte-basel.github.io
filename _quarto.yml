@@ -19,35 +19,23 @@ website:
   navbar:
     logo: android-chrome-512x512.png
     logo-alt: ''
-    title: stadt-geschichte-basel.github.io
+    title: Stadt.Geschichte.Basel
     tools:
       - icon: github
         url: https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/
     left:
-      - text: Readme
+      - text: Home
         href: index.qmd
-      - text: Report
-        href: report.md
+      - text: Produkte
+        href: products/index.qmd
 
   sidebar:
     contents:
-      - section: stadt-geschichte-basel.github.io
+      - text: Home
         href: index.qmd
-        contents:
-          - text: Changelog
-            href: CHANGELOG.md
-          - text: Code of Conduct
-            href: CODE_OF_CONDUCT.md
-          - text: Contributing
-            href: CONTRIBUTING.md
-          - text: License (Data)
-            href: LICENSE-CCBY.md
-          - text: License (Code)
-            href: LICENSE-AGPL.md
-          - text: Security
-            href: SECURITY.md
-      - href: report.md
-        contents: project-management/*
+      - section: Produkte
+        href: products/index.qmd
+        contents: products/*/index.qmd
 
 format:
   html:
