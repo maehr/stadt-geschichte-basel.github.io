@@ -1,6 +1,5 @@
 ---
-title: Forschungsdaten
-subtitle: Geodaten, Statistiken, Diagramme
+title: Geodaten
 author:
   - name: Nico Görlich
     orcid: 0000-0003-3860-1488
