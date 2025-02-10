@@ -1,5 +1,5 @@
 ---
-title: "Forschungsdatenmanagement und digitale Vermittlung"
+title: "Forschungsdatenmanagement und Public History"
 lang: de
 listing:
   - id: talks-posters
@@ -26,8 +26,24 @@ listing:
     sort: "title desc"
     fields: [title, subtitle]
     grid-columns: 2
+  - id: research-data
+    type: grid
+    contents: [research-data/*.qmd, handbuch/index.qmd]
+    fields: [title]
+    grid-columns: 2
 date-modified: last-modified
 ---
+
+<!-- TO DO 
+noch in Produktkategorien einsortieren:
+
+- Data Stories
+- Zotero
+- DMP
+- SGB-Wiki
+- Fails dokumentieren
+
+-->
 
 :::{#frontrow}
 :::
@@ -35,6 +51,11 @@ date-modified: last-modified
 ## Coding
 
 :::{#coding}
+:::
+
+## Forschungsdaten
+
+:::{#research-data}
 :::
 
 ## Vorträge, Poster und Workshops 
@@ -48,16 +69,3 @@ Wissenschaftliche Veröffentlichungen, die im Zusammenhang mit dem Forschungspro
 
 :::{#digital-history}
 :::
-
-<hr>
-
-noch in Produktkategorien einsortieren:
-
-- Data Stories
-- Datenpublikation
-- ORD-Template
-- Zotero
-- DMP
-- Handbuch
-- SGB-Wiki
-- Fails dokumentieren
