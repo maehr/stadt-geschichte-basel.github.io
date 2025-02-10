@@ -19,22 +19,32 @@ doi: 10.5281/zenodo.7193613
 citation:
   type: standard
   container-title: "DARIAH-CH Study Day 2022, Università della Svizzera Italiana"
+appendix-cite-as: display
 other-links:
   - text: 'Veranstaltungswebsite'
     icon: house
     href: 'https://www.dariah.eu/2022/06/30/dariah-ch-study-day/'
   - text: Slides (Zenodo)
     icon: filetype-pdf
-    href: 'https://doi.org/10.5281/zenodo.7193613'
+    href: 'https://doi.org/10.5281/zenodo.7198056'
   - text: Poster (Zenodo)
     icon: filetype-pdf
-    href: 'https://doi.org/10.5281/zenodo.7198056'
+    href: 'https://doi.org/10.5281/zenodo.7193613'
 
 ---
 
 ## Poster
 
 Das Poster wurde im Rahmen des [Study Days 2022](https://www.dariah.ch/study-day-2023/) von DARIAH-CH an der Università della Svizzera Italiana in Mendrisio gezeigt, ist auf Zenodo archiviert und [als PDF-Datei abrufbar](https://doi.org/10.5281/zenodo.7198056).
+
+::: {.callout-tip title="Poster anzeigen" icon="false" collapse="true"}
+
+<iframe src="/assets/files/20221020-MuenchWildisen_Goerlich_Maehr-How_to_data_story.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="How to tell a Data Story">
+
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/20221020-MuenchWildisen_Goerlich_Maehr-How_to_data_story.pdf">download the PDF</a> to view it.
+
+</iframe>
+:::
 
 ## Abstract
 

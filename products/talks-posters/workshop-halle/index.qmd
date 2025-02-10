@@ -23,6 +23,7 @@ lang: de
 citation:
   type: standard
   container-title: 'Tagung Digital History & Citizen Science an der Martin-Luther-Universität Halle-Wittenberg'
+appendix-cite-as: display
 other-links:
   - text: Veranstaltungswebseite
     icon: house

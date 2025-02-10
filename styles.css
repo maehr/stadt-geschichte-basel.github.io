@@ -111,10 +111,10 @@ h1 {
 	text-decoration-thickness: 4px;
 }
 
-.callout-note {
+.callout-tip {
 	border-left-color: #ffe880 !important;
 }
 
-.callout-icon {
-	color: #181818 !important;
+.callout-header {
+	background-color: #ffe880 !important;
 }

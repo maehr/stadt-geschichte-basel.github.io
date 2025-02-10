@@ -24,6 +24,7 @@ doi: 10.58079/11sc7
 citation:
   type: standard
   container-title: 'Praxislabor 2024 der AG Digitale Geschichtswissenschaft des Verbands der Historiker und Historikerinnen Deutschlands e.V.'
+appendix-cite-as: display
 other-links:
   - text: Veranstaltungswebseite
     icon: house
