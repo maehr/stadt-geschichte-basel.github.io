@@ -3,7 +3,7 @@ title: Digital Longevity
 subtitle: Learnings from the (Digital) History Project Stadt.Geschichte.Basel
 author:
   - name: Moritz Mähr
-    email: moritz.maehr@unibas.ch
+    email: moritz.maehr@gmail.com
     orcid: 0000-0002-1367-1618
     affiliation: Universität Basel, Universität Bern
 date: 2023-12-12

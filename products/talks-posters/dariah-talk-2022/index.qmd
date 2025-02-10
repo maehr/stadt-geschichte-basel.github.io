@@ -9,7 +9,7 @@ author:
     orcid: 0000-0003-3860-1488
     affiliation: Universität Basel
   - name: Moritz Mähr
-    email: moritz.maehr@unibas.ch
+    email: moritz.maehr@gmail.com
     orcid: 0000-0002-1367-1618
     affiliation: Universität Basel
 date: 2022-10-20

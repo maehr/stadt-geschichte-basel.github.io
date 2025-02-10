@@ -3,7 +3,7 @@ title: Open Research Data Template
 subtitle: Forschungsdaten FAIR veröffentlichen
 author:
   - name: Moritz Mähr
-    email: moritz.maehr@unibas.ch
+    email: moritz.maehr@gmail.com
     orcid: 0000-0002-1367-1618
     affiliation: Universität Basel
 date-modified: last-modified

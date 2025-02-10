@@ -2,7 +2,7 @@
 title: Awesome Digital History
 author:
   - name: Moritz Mähr
-    email: moritz.maehr@unibas.ch
+    email: moritz.maehr@gmail.com
     orcid: 0000-0002-1367-1618
     affiliation: Universität Basel
 date-modified: 2024-03-14

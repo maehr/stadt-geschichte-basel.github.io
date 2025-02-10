@@ -2,7 +2,7 @@
 title: Research Data Management in (Public) History
 author:
   - name: Moritz Mähr
-    email: moritz.maehr@unibas.ch
+    email: moritz.maehr@gmail.com
     orcid: 0000-0002-1367-1618
     affiliation: Universität Basel, Universität Bern
 date: 2022-06-15
