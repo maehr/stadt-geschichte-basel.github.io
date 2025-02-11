@@ -14,7 +14,7 @@ listing:
 date-modified: last-modified
 ---
 
-Diese Webseite zeigt die Arbeit des Teams für Forschungsdatenmanagement und digitale Vermittlung von Stadt.Geschichte.Basel. Im Fokus steht neben unserer Arbeit mit Forschungsdaten (Erstellung, Annotation, Publikation, Weiterverwendung) die Aufbereitung der Projektinhalte für die digitale Präsentation und Vermittlung. Wir dokumentieren auch projektbezogene Vorträge, Poster und Workshops im Rahmen von wissenschaftlichen Konferenzen sowie unsere Beteiligung an Community Building im Bereich Digital History.
+Diese Webseite zeigt die Arbeit des Teams für Forschungsdatenmanagement und Public History von Stadt.Geschichte.Basel. Im Fokus steht neben unserer Arbeit mit Forschungsdaten (Erstellung, Annotation, Publikation, Weiterverwendung) die Aufbereitung der Projektinhalte für die digitale Präsentation und Vermittlung. Wir dokumentieren auch projektbezogene Vorträge, Poster und Workshops im Rahmen von wissenschaftlichen Konferenzen sowie unsere Beteiligung an Community Building im Bereich Digital History.
 
 ## Produkte
 
