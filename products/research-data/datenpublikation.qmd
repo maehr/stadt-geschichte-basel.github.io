@@ -1,0 +1,9 @@
+---
+title: Datenpublikation
+date-modified: last-modified
+lang: de
+---
+
+## Datenpublikation
+
+Lorem Ipsum

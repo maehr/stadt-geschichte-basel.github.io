@@ -1,0 +1,23 @@
+---
+title: Open Research Data Template
+subtitle: Forschungsdaten FAIR veröffentlichen
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel
+date-modified: last-modified
+lang: de
+other-links:
+  - text: Website
+    icon: house
+    href: 'https://maehr.github.io/open-research-data-template/'
+code-links:
+  - href: 'https://github.com/maehr/open-research-data-template/'
+    text: GitHub Repository
+    icon: github
+---
+
+## Open Research Data Template
+
+Lorem Ipsum

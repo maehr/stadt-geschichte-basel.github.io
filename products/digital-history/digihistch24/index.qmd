@@ -1,0 +1,47 @@
+---
+title: Digital History Switzerland 2024
+subtitle: 'Historical Research, Digital Literacy and Algorithmic Criticism'
+categories: 'Veranstaltung'
+author:
+  - name: Jérôme Baudry
+    orcid: 0000-0002-9949-0681
+    affiliation: EPFL
+  - name: Lucas Burkart
+    orcid: 0000-0002-9011-5113
+    affiliation: Universität Basel
+  - name: Béatrice Joyeux-Prunel
+    orcid: 0000-0003-1046-7002
+    affiliation: Université de Genève
+  - name: Eliane Kurmann
+    orcid: 0000-0002-9037-7260
+    affiliation: infoclio.ch
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel, Universität Bern
+  - name: Enrico Natale
+    orcid: 0000-0002-0967-5931
+    affiliation: infoclio.ch, Verein Geschichte und Informatik
+  - name: Christiane Sibille
+    orcid: 0000-0003-3689-2154
+    affiliation: ETH Bibliothek, Verein Geschichte und Informatik
+  - name: Moritz Twente
+    email: mtwente@protonmail.com
+    orcid: 0009-0005-7187-9774
+    affiliation: Universität Basel
+date: 2024-09-12
+lang: de
+citation:
+  type: standard
+other-links:
+  - text: Veranstaltungswebseite
+    icon: house
+    href: 'https://digihistch24.github.io'
+  - text: Zenodo Community
+    icon: collection
+    href: 'https://zenodo.org/communities/digihistch24'
+---
+
+## Konferenz
+
+Lorem ipsum

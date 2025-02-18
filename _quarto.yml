@@ -3,7 +3,7 @@ project:
 
 website:
   title: stadt-geschichte-basel.github.io
-  favicon: android-chrome-512x512.png
+  favicon: favicon.png
   open-graph: true
   twitter-card: true
   site-url: https://Stadt-Geschichte-Basel.github.io/stadt-geschichte-basel.github.io/
@@ -17,24 +17,26 @@ website:
     show-item-context: true
     type: overlay
   navbar:
-    logo: android-chrome-512x512.png
+    logo: assets/img/logo.svg
     logo-alt: ''
-    title: Stadt.Geschichte.Basel
+    title: Forschungsdatenmanagement
     tools:
       - icon: github
         url: https://github.com/Stadt-Geschichte-Basel/stadt-geschichte-basel.github.io/
     left:
-      - text: Home
-        href: index.qmd
       - text: Produkte
-        href: products/index.qmd
+        href: products/products.qmd
+      - text: Team
+        href: team.qmd
+      - text: Über
+        href: products/readme.qmd
 
   sidebar:
     contents:
       - text: Home
         href: index.qmd
       - section: Produkte
-        href: products/index.qmd
+        href: products/products.qmd
         contents: products/*/index.qmd
 
 format:
@@ -44,6 +46,7 @@ format:
     code-copy: true
     code-overflow: wrap
     css: styles.css
+    mainfont: Euclid Circular B
 
 freeze: true
 

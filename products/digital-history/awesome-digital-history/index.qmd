@@ -1,0 +1,31 @@
+---
+title: Awesome Digital History
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Basel
+date-modified: 2024-03-14
+categories: Other
+lang: de
+citation:
+  type: standard
+code-links:
+  - href: 'https://github.com/maehr/awesome-digital-history/'
+    text: GitHub Repository
+    icon: github
+other-links:
+  - text: Website
+    icon: collection
+    href: 'https://awesome-digital-history.pages.dev/'
+---
+
+[![](https://awesome.re/badge.svg)](https://awesome.re)
+
+Find primary sources online and learn how to research history digitally.
+
+Finding aids for textual and multimedia [primary sources](https://en.wikipedia.org/wiki/Primary_source) with a focus on the western hemisphere and the 19th and 20th centuries. Courses and learning tools to explore history digitally.
+
+## Beitragen
+
+Lorem Ipsum
