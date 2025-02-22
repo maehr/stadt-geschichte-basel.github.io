@@ -1,4 +1,4 @@
-- title: "alle Produkte"
-  path: "products/products.html"
-- title: "Plattform für Forschungsdaten"
-  path: "products/coding/plattform"
+- title: 'alle Produkte'
+  path: 'products/products.html'
+- title: 'Plattform für Forschungsdaten'
+  path: 'products/coding/plattform'

@@ -37,7 +37,7 @@ website:
         href: index.qmd
       - section: Produkte
         href: products/products.qmd
-        contents: products/*/index.qmd
+        contents: products/*/*/index.qmd
 
 format:
   html:

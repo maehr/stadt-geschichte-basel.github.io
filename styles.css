@@ -1,27 +1,27 @@
 /* css styles */
 
 @font-face {
-    font-display: swap;
-    font-family: 'Euclid Circular B';
-    src: url('/assets/fonts/EuclidCircularB-Regular-WebS.woff2') format('woff2');
-    font-style: normal;
-    font-weight: 400;
+	font-display: swap;
+	font-family: 'Euclid Circular B';
+	src: url('/assets/fonts/EuclidCircularB-Regular-WebS.woff2') format('woff2');
+	font-style: normal;
+	font-weight: 400;
 }
 
 @font-face {
-    font-display: swap;
-    font-family: 'Euclid Circular B';
-    src: url('/assets/fonts/EuclidCircularB-Medium-WebS.woff2') format('woff2');
-    font-style: normal;
-    font-weight: 500;
+	font-display: swap;
+	font-family: 'Euclid Circular B';
+	src: url('/assets/fonts/EuclidCircularB-Medium-WebS.woff2') format('woff2');
+	font-style: normal;
+	font-weight: 500;
 }
 
 @font-face {
-    font-display: swap;
-    font-family: 'Euclid Circular B';
-    src: url('/assets/fonts/EuclidCircularB-Semibold-WebS.woff2') format('woff2');
-    font-style: normal;
-    font-weight: 600;
+	font-display: swap;
+	font-family: 'Euclid Circular B';
+	src: url('/assets/fonts/EuclidCircularB-Semibold-WebS.woff2') format('woff2');
+	font-style: normal;
+	font-weight: 600;
 }
 
 .navbar {
@@ -34,7 +34,7 @@
 }
 
 .navbar-title:hover {
-    color: #ffe880;
+	color: #ffe880;
 }
 
 .navbar-brand-logo {
@@ -57,7 +57,6 @@
 	color: #ffe880;
 }
 
-
 .navbar li.nav-item a.nav-link {
 	/* font-weight: bold; */
 	color: #fff;
@@ -67,15 +66,17 @@
 	color: #ffe880;
 }
 
-[data-bs-theme=dark] .navbar-toggler-icon {
-	--bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ffffff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
+[data-bs-theme='dark'] .navbar-toggler-icon {
+	--bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ffffff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
-[data-bs-theme=dark] .navbar-toggler-icon:hover, .navbar-toggler-icon:focus {
-	--bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ffe880' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
+[data-bs-theme='dark'] .navbar-toggler-icon:hover,
+.navbar-toggler-icon:focus {
+	--bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23ffe880' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
-.bi-envelope, .anchorjs-link {
+.bi-envelope,
+.anchorjs-link {
 	color: #3a1e3e;
 }
 
