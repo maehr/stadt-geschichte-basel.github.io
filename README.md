@@ -13,7 +13,8 @@ This repository contains the documentation of the work of the team for research 
 
 The structure of this repository follows the [Advanced Structure for Data Analysis](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-advanced.html) of _The Turing Way_ and is organized as follows:
 
-- `contents/`: CMS content
+- `assets/`: Images, figures, and other media files.
+- `products/`: The final products of the project, such as reports, papers, or presentations.
 
 ## Installation
 
