@@ -19,27 +19,10 @@ Diese Webseite zeigt die Arbeit des Teams für Forschungsdatenmanagement und Pub
 ## Produkte
 
 Von unserem Team erarbeitete Lösungen bieten wir als Good-Practice-Beispiele zur Weiterverwendung an, darunter ein Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten oder Workflows für kollaboratives Projektmanagement oder zur Aufbereitung und Publikation von Forschungsdaten:
-<!-- 
-::: {.grid}
 
-::: {.g-col-6}
-Die [Forschungsdatenplattform](products/coding/plattform/index.qmd) auf Basis von CollectionBuilder stellt eine umfangreiche Sammlung von Ressourcen zur Geschichte von Basel bereit. 
-:::
-
-::: {.g-col-6}
-[Handbuch](products/handbuch/index.qmd) für diskriminierungsfreie Metadaten
-:::
-
-:::
-
-Diese Übersicht auf der Startseite kann mit Quarto auch in Form eines Listings wie folgt realisiert werden:
--->
-
-:::{#showcase-reel}
+::: {#showcase-reel}
 :::
 
 ## Stadt.Geschichte.Basel
 
-Wir sind ein interdisziplinäres [Forschungsprojekt](https://www.stadtgeschichtebasel.ch), das sich der umfassenden Erforschung und Dokumentation der langen Geschichte von Basel widmet.
-Über 70 Forscher\*innen und Mitarbeiter\*innen aus verschiedenen Ländern untersuchen die Geschichte Basels von den ersten Siedlungsspuren bis heute.
-Unser Ziel ist es, einen bedeutenden Beitrag zur Erforschung und Dokumentation der Geschichte von Basel zu leisten und gleichzeitig die Vergangenheit auf zeitgemässe Weise zugänglich zu machen.
+Wir sind ein interdisziplinäres [Forschungsprojekt](https://www.stadtgeschichtebasel.ch), das sich der umfassenden Erforschung und Dokumentation der langen Geschichte von Basel widmet. Über 70 Forscher\*innen und Mitarbeiter\*innen aus verschiedenen Ländern untersuchen die Geschichte Basels von den ersten Siedlungsspuren bis heute. Unser Ziel ist es, einen bedeutenden Beitrag zur Erforschung und Dokumentation der Geschichte von Basel zu leisten und gleichzeitig die Vergangenheit auf zeitgemässe Weise zugänglich zu machen.

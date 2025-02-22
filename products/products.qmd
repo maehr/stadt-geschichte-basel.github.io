@@ -28,12 +28,13 @@ listing:
     grid-columns: 2
   - id: research-data
     type: grid
-    contents: [research-data/*.qmd, handbuch/index.qmd]
+    contents: [research-data/*/index.qmd]
     fields: [title]
     grid-columns: 2
 date-modified: last-modified
 ---
 
+```{=html}
 <!-- TO DO 
 noch in Produktkategorien einsortieren:
 
@@ -44,28 +45,29 @@ noch in Produktkategorien einsortieren:
 - Fails dokumentieren
 
 -->
+```
 
-:::{#frontrow}
+::: {#frontrow}
 :::
 
 ## Coding
 
-:::{#coding}
+::: {#coding}
 :::
 
 ## Forschungsdaten
 
-:::{#research-data}
+::: {#research-data}
 :::
 
-## Vorträge, Poster und Workshops 
+## Vorträge, Poster und Workshops
 
 Wissenschaftliche Veröffentlichungen, die im Zusammenhang mit dem Forschungsprojekt stehen, sind [auf Zenodo archiviert](https://zenodo.org/communities/stadt-geschichte-basel). Die im Rahmen von Konferenzen und Workshops publizierten Beiträge des Teams für Forschungsdatenmanagement und Public History befassen sich mit der Entwicklung der digitalen Angebote von Stadt.Geschichte.Basel und übergreifend mit (digitalem) Forschungsdatenmanagement und Public History in den Geschichtswissenschaften.
 
-:::{#talks-posters}
+::: {#talks-posters}
 :::
 
 ## Community Building
 
-:::{#digital-history}
+::: {#digital-history}
 :::
