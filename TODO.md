@@ -75,13 +75,13 @@ npm run prepare
 - [ ] add `ZENODO_RECORD` to [README.md](README.md)
 - [ ] add favicons to `./`, e.g. via [favicon.io](https://favicon.io/)
 - [x] search for `TODO` in the project (mostly documentation) and fix it
-- [ ] delete [README.md](README.md)
-- [ ] rename [README.template.md](README.template.md) to [README.md](README.md)
+- [x] delete [README.md](README.md)
+- [x] rename [README.template.md](README.template.md) to [README.md](README.md)
 - [x] run `npm run format` to format all files
 - [ ] run `npm run commit` to commit all changes
 - [ ] run `npm run changelog` and include the output in [CHANGELOG.md](CHANGELOG.md)
 - [x] install [Quarto](https://quarto.org/docs/get-started/)
-- [ ] run `quarto publish gh-pages` to publish the documentation
+- [x] run `quarto publish gh-pages` to publish the documentation
 - [ ] customize the documentation with [Quarto](https://quarto.org/docs/websites/#workflow)
 - [x] enable [gh-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) for the `gh-pages` branch
 
