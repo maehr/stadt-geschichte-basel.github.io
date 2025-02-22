@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
     "listing": "/products/products.html",
     "items": [
       "/products/talks-posters/hag-vortragszyklus-2025/index.html",
@@ -32,5 +28,9 @@
       "/products/research-data/geodata/index.html",
       "/products/research-data/handbuch/index.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": []
   }
 ]
