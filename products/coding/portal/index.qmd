@@ -18,7 +18,7 @@ lang: de
 other-links:
   - text: Website
     icon: house
-    href: 'https://www.stadtgeschichtebasel.ch/'
+    href: 'https://stadtgeschichtebasel.ch/'
 code-links:
   - href: 'https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch/'
     text: GitHub Repository
@@ -27,8 +27,8 @@ code-links:
 
 ## Portal
 
-Die Webseite [Stadt.Geschichte.Basel](https://stadtgeschichtebasel.ch/) bietet einen umfassenden Einblick in die vielfältige Geschichte der Stadt Basel. Im Zentrum des Projekts stehen neun thematische Einzelbände sowie ein Überblicksband, die die Entwicklung Basels von den ersten Siedlungsspuren bis in die Gegenwart detailliert darstellen. Ein besonderes Merkmal der Plattform ist der öffentliche Zugang zu Forschungsdaten, die in Form von "Data Stories" präsentiert werden. Diese Kombination aus narrativen Elementen und Daten ermöglicht es, komplexe historische Zusammenhänge auf innovative und zugängliche Weise zu vermitteln. Die Webseite richtet sich an ein breites Publikum, darunter Geschichtsinteressierte, Studierende und Forschende, und lädt dazu ein, die Basler Stadtgeschichte interaktiv und datenbasiert zu erkunden. 
+Die Webseite [Stadt.Geschichte.Basel](https://stadtgeschichtebasel.ch/) bietet einen umfassenden Einblick in die vielfältige Geschichte der Stadt Basel. Im Zentrum des Projekts stehen neun thematische Einzelbände sowie ein Überblicksband, die die Entwicklung Basels von den ersten Siedlungsspuren bis in die Gegenwart detailliert darstellen. Ein besonderes Merkmal der Plattform ist der öffentliche Zugang zu Forschungsdaten, die in Form von "Data Stories" präsentiert werden. Diese Kombination aus narrativen Elementen und Daten ermöglicht es, komplexe historische Zusammenhänge auf innovative und zugängliche Weise zu vermitteln. Die Webseite richtet sich an ein breites Publikum, darunter Geschichtsinteressierte, Studierende und Forschende, und lädt dazu ein, die Basler Stadtgeschichte interaktiv und datenbasiert zu erkunden.
 
-Das zugehörige GitHub-Repository [stadtgeschichtebasel.ch](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch/) enthält den Open-Source-Code des digitalen Portals von Stadt.Geschichte.Basel. Dieses Repository ermöglicht es Entwicklern und Interessierten, Einblick in die technische Umsetzung der Plattform zu gewinnen, Beiträge zu leisten und den Code für eigene Projekte zu nutzen. Die Offenlegung des Quellcodes fördert die Transparenz und unterstützt die Weiterentwicklung durch die Community. 
+Das zugehörige GitHub-Repository [stadtgeschichtebasel.ch](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch/) enthält den Open-Source-Code des digitalen Portals von Stadt.Geschichte.Basel. Dieses Repository ermöglicht es Entwicklern und Interessierten, Einblick in die technische Umsetzung der Plattform zu gewinnen, Beiträge zu leisten und den Code für eigene Projekte zu nutzen. Die Offenlegung des Quellcodes fördert die Transparenz und unterstützt die Weiterentwicklung durch die Community.
 
-Insgesamt trägt Stadt.Geschichte.Basel dazu bei, die reichhaltige Historie Basels auf moderne und interaktive Weise zu dokumentieren und einem breiten Publikum zugänglich zu machen. 
+Insgesamt trägt Stadt.Geschichte.Basel dazu bei, die reichhaltige Historie Basels auf moderne und interaktive Weise zu dokumentieren und einem breiten Publikum zugänglich zu machen.
