@@ -6,8 +6,8 @@ listing:
   - id: showcase-reel
     type: grid
     contents:
-      - products/handbuch/*.qmd
       - products/showcase-reel.yaml
+      - products/*/*/index.qmd
     sort-ui: false
     filter-ui: false
     fields: [title]
