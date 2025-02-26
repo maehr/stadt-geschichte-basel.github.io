@@ -130,8 +130,7 @@ Der Zwischenbericht dokumentiert den aktuellen Stand der digitalen Umsetzung von
 
 ## 2. Arbeitspaket: Showcases
 
-### 2.1 Portal – [stadtgeschichtebasel.ch](http://stadtgeschichtebasel.ch/)
-
+### 2.1 Portal – [stadtgeschichtebasel.ch](https://stadtgeschichtebasel.ch/)
 - Umsetzung einer **Mobile-First-Strategie** mit Fokus auf Nutzerfreundlichkeit.
 - Erhebung der **Bedürfnisse der Vermittlungspartner** durch Umfragen.
 - Entwicklung eines **Prototyps** mit Card Sorting und Wireframes.
