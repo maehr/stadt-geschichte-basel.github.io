@@ -73,11 +73,11 @@ Die Data Story zeigt beispielhaft, wie historische **Forschungsdaten in narrativ
 
 Die Ergebnisse fliessen in die **digitale Plattform von Stadt.Geschichte.Basel** ein und werden in Workshops zu **Data Storytelling** als Best-Practice-Beispiel verwendet.
 
-## Autoren & Entwicklung
+## Autor\*innen & Entwicklung
 
 Die Data Story wurde von:
 
--   **Cristina Wildisen-Münch** (Bilddaten & Literaturverwaltung)
+-   **Cristina Münch** (Bilddaten & Literaturverwaltung)
 -   **Nico Görlich** (Geodaten & Statistik)
 -   **Moritz Mähr** (Forschungsdatenmanagement & digitale Vermittlung)
 
