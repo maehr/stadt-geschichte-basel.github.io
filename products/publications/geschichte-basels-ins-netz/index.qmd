@@ -9,7 +9,7 @@ author:
   orcid: 0000-0002-1367-1618
 date: 2024-05-01
 lang: de-DE
-doi: doi/10.14361/9783839469675-007
+doi: 10.14361/9783839469675-007
 other-links:
   - text: HTML
     icon: filetype-html
