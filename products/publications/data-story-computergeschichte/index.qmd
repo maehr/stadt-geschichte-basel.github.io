@@ -34,7 +34,7 @@ Die Data Story **"Das Kontrollbüro und die Wundermaschine"** wurde vom **Forsch
 
 ## Hintergrund der Geschichte
 
-Ende der **1960er Jahre** hielt der **Computer** Einzug in die Basler Verwaltung. Inspiriert von utopischen Zukunftsvisionen sollte die sogenannte "Wundermaschine" die Verwaltung effizienter machen. In dieser Zeit begannen das **Kontrollbüro** (heute Einwohneramt) und die **Zentralstelle für elektronische Datenverarbeitung (ZED)**, die analogen **Einwohnerregister zu digitalisieren**. Ziel war es, die über \*\*200.000 Einwohner\*innen\*\* des Kantons digital zu erfassen und eine moderne, vernetzte Verwaltung aufzubauen.
+Ende der **1960er Jahre** hielt der **Computer** Einzug in die Basler Verwaltung. Inspiriert von utopischen Zukunftsvisionen sollte die sogenannte "Wundermaschine" die Verwaltung effizienter machen. In dieser Zeit begannen das **Kontrollbüro** (heute Einwohneramt) und die **Zentralstelle für elektronische Datenverarbeitung (ZED)**, die analogen **Einwohnerregister zu digitalisieren**. Ziel war es, die über **200.000 Einwohner\*innen** des Kantons digital zu erfassen und eine moderne, vernetzte Verwaltung aufzubauen.
 
 Diese Digitalisierung brachte tiefgreifende Veränderungen mit sich:
 
