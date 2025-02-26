@@ -10,7 +10,7 @@ listing:
       - products/*/*/index.qmd
     sort-ui: false
     filter-ui: false
-    fields: [title]
+    fields: [title, subtitle, date, categories]
 date-modified: last-modified
 ---
 
