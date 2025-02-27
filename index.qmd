@@ -6,11 +6,11 @@ listing:
   - id: showcase-reel
     type: grid
     contents:
-      - products/showcase-reel.yaml
       - products/*/*/index.qmd
     sort-ui: false
     filter-ui: false
     fields: [title, subtitle, date, categories]
+    max-items: 3
 date-modified: last-modified
 ---
 
