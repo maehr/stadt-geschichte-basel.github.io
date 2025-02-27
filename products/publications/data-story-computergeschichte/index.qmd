@@ -20,10 +20,9 @@ other-links:
   - text: Interaktive Data Story
     icon: house
     href: 'https://storymaps.arcgis.com/stories/6be823309a7b4254aa27b5486703b68b'
-  # FIXME: Add PDF to ZENODO
-  # - text: Druckansicht
-  #   icon: filetype-pdf
-  #   href: '/assets/files/20220607_Das_Kontrollbüro_und_die_Wundermaschine.pdf'
+  - text: Druckansicht
+    icon: filetype-pdf
+    href: '/assets/files/20220607_Das_Kontrollbüro_und_die_Wundermaschine.pdf'
 ---
 
 ::: callout-note
