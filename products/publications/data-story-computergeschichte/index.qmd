@@ -22,7 +22,7 @@ other-links:
     href: 'https://storymaps.arcgis.com/stories/6be823309a7b4254aa27b5486703b68b'
   - text: Druckansicht
     icon: filetype-pdf
-    href: '/assets/files/20220607_Das_Kontrollbüro_und_die_Wundermaschine.pdf'
+    href: '/assets/files/20220607_Das_Kontrollbuero_und_die_Wundermaschine.pdf'
 ---
 
 ::: callout-note
