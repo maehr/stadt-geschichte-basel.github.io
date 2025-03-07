@@ -137,6 +137,9 @@ jobs:
 
   deploy:
     name: Download Artifacts and Deploy
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: macos-latest
     needs: [build-optimize, deadlinkcheck]
     if: github.event_name != 'pull_request'
