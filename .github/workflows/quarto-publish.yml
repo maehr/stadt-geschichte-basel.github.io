@@ -47,11 +47,6 @@ jobs:
         run: |
           cp .github/_quarto.yml _quarto.yml
 
-      - name: Install system dependencies
-        run: |
-          brew install gettext
-          brew link gettext --force
-
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         env:
@@ -82,6 +77,8 @@ jobs:
 
       # - name: Install the project
       #   run: uv sync
+      - name: Prefer binary packages in R session
+        run: echo 'options(pkgType="binary")' >> ~/.Rprofile
 
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
