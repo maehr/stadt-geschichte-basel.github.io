@@ -1,16 +1,21 @@
 ---
-title: Dokumentation zur Entstehung der Open-Access-Ausgabe von Stadt.Geschichte.Basel
-subtitle: Für das Team Forschungsdatenmanagement und Public History
+title: Open-Access-Ausgabe
 category: Interna
 author:
   - name: Moritz Mähr
-    email: moritz.maehr@unibas.ch
+    email: moritz.maehr@gmail.ch
     affiliation: Universität Basel
     orcid: 0000-0002-1367-1618
-date: 27. März 2025
+  - name: Lucy Hindermann
+    affiliation: Universitätsbibliothek Basel
+  - name: Mathias Edel
+    affiliation: Universitätsbibliothek Basel
+  - name: Katharina Marti
+    affiliation: icona basel
+date: 2025-03-27
 lang: de-CH
 other-links:
-  - text: Open-Access-Ausgaben (emono)
+  - text: Open-Access-Ausgabe (emono)
     icon: filetype-html
     href: 'https://emono.unibas.ch/stadtgeschichtebasel/index'
   - text: Blogbeitrag zur Publikation
@@ -18,13 +23,13 @@ other-links:
     href: 'https://blog.ub.unibas.ch/2025/03/27/von-basels-fruhsten-anfangen-bis-zur-gegenwart-die-neue-stadtgeschichte-basels-als-open-access-publikation/'
 ---
 
-## Einleitung
+## Anliegen
 
 Die Publikationsreihe *Stadt.Geschichte.Basel* präsentiert in zehn Bänden (Bände 1–9 sowie ein Abschlussband) eine umfassende Aufarbeitung der Basler Stadtgeschichte von den frühesten Anfängen bis zur Gegenwart. Ein zentrales Anliegen des Projekts ist es, historische Forschungsergebnisse möglichst breit zugänglich zu machen und für unterschiedliche Interessensgruppen nutzbar zu halten. Um dies zu erreichen, werden die Bände in einer Open-Access-Version veröffentlicht, die kostenlos im Internet zur Verfügung steht.
 
 Diese Dokumentation richtet sich an das **Team Forschungsdatenmanagement und Public History** von *Stadt.Geschichte.Basel* und fasst die wichtigsten Schritte, Rollen und technischen Aspekte zusammen, die zur Entstehung der Open-Access-Ausgabe führten. Sie dient als Referenz für zukünftige Projekte und stellt die wichtigsten **Lessons Learned** aus diesem Prozess dar.
 
-## 1. Workflow und Rollen
+## Workflow und Rollen
 
 Im Kern basierte der Prozess auf einer engen Kollaboration zwischen verschiedenen Akteurinnen und Akteuren:
 
@@ -35,7 +40,7 @@ Im Kern basierte der Prozess auf einer engen Kollaboration zwischen verschiedene
   - Customizing der OMP-Installation (Subpress) mittels CSS  
   - Erstellung eines ersten Prototyps für die künftige HTML-Ausgabe  
 
-- **Lucy Hintermann (Open Science, Universität Basel)**  
+- **Lucy Hindermann (Open Science, UB Basel)**  
   - Aufsetzen und Konfiguration der OMP-Subpress-Plattform  
   - Datenkontrolle (Validierung der hochgeladenen PDFs, Metadaten-Vollständigkeit)  
 
@@ -49,22 +54,25 @@ Im Kern basierte der Prozess auf einer engen Kollaboration zwischen verschiedene
 
 Für die Umsetzung wurde **Open Monograph Press (OMP)**, entwickelt von PKP (Public Knowledge Project), eingesetzt. OMP erlaubt sowohl das Hochladen als auch das Publizieren von Monographien und vereinfacht den Review- und Produktionsworkflow.
 
----
+## Zeitplan und Embargo
 
-## 2. Zeitplan und Embargo
-
-1. **2022**  
+* **2022**  
    - Entwicklung eines ersten Konzepts für die Open-Access-Ausgabe  
    - Absprachen zwischen Moritz Mähr, Patrick Kury (Stadt.Geschichte.Basel), Oliver Bolanz (Christoph Merian Verlag) und Silke Bellanger (Open Science, Universität Basel)  
-2. **2023**  
+* **2023**  
    - Erstellung erster Prototypen und Testphase auf der OMP-Plattform  
    - Verhandlungen mit allen Projektbeteiligten über Workflows und rechtliche Aspekte  
-3. **2024**  
+* **2024**  
    - Abschluss und Unterzeichnung des Memorandum of Understanding (MoU) zwischen den drei Organisationen (Stadt.Geschichte.Basel, UB Basel, Christoph Merian Verlag)  
    - Start der produktiven Umsetzung und Vorbereitung der finalen Metadaten
 
 Die genauen Embargofristen für die Veröffentlichung der Open-Access-Ausgaben richten sich nach den vertraglichen Vereinbarungen im MoU. Das Ziel ist eine koordinierte Veröffentlichung mit zeitlichem Versatz zur Printausgabe, damit eine angemessene Vermarktungsphase für die gedruckten Bände möglich bleibt.
 
-## 3. Rechte und Lizenzen
+## Rechte und Lizenzen
 
-Alle Bände erscheinen unter einer einheitlichen [Creative-Commons-Lizenz (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.de). Dadurch dürfen die Inhalte kostenlos genutzt, geteilt und
+Alle Bände erscheinen unter einer einheitlichen [Creative-Commons-Lizenz (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.de). Dadurch dürfen die Inhalte kostenlos genutzt, geteilt und weiterverbreitet werden.
+
+Diese Lizenz erlaubt unter Voraussetzung der Namensnennung des Urhebers die Bearbeitung, Vervielfältigung und Verbreitung des Materials in jedem Format oder Medium für nicht-kommerzielle Zwecke. Eine kommerzielle Nutzung ist nur mit gesonderter
+Genehmigung des Urhebers gestattet.
+
+Die Bedingungen der Creative-Commons-Lizenz gelten nur für Originalmaterial. Die Wiederverwendung von Material aus anderen Quellen (gekennzeichnet mit Quellenangabe) wie z.B. Schaubilder, Abbildungen, Fotos und Textauszüge erfordert ggf. weitere Nutzungsgenehmigungen durch den jeweiligen Rechteinhaber.
