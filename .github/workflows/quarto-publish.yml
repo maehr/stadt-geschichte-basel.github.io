@@ -47,6 +47,11 @@ jobs:
         run: |
           cp .github/_quarto.yml _quarto.yml
 
+      - name: Install system dependencies
+        run: |
+          brew install gettext
+          brew link gettext --force
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         env:
