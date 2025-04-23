@@ -1,7 +1,18 @@
 FROM mcr.microsoft.com/devcontainers/base:debian
 
-# Install system dependencies
-RUN apt-get update && export DEBIAN_FRONTEND=noninteractive && apt-get install -y r-base
+# Add CRAN repo for R 4.4+ and install system dependencies
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+        dirmngr \
+        gnupg \
+        ca-certificates \
+        curl \
+        software-properties-common \
+        apt-transport-https && \
+    curl -fsSL https://cloud.r-project.org/bin/linux/debian/bookworm-cran40/cran.gpg | gpg --dearmor -o /usr/share/keyrings/cran.gpg && \
+    echo "deb [signed-by=/usr/share/keyrings/cran.gpg] https://cloud.r-project.org/bin/linux/debian bookworm-cran40/" > /etc/apt/sources.list.d/cran.list && \
+    apt-get update && \
+    DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends r-base
 
 # Download the latest installer
 ADD https://astral.sh/uv/install.sh /uv-installer.sh
