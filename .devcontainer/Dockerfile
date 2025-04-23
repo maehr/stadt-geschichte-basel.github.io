@@ -1,18 +1,18 @@
 FROM mcr.microsoft.com/devcontainers/base:debian
 
-# Add CRAN repo for R 4.4+ and install system dependencies
+# Install system dependencies
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends \
-        dirmngr \
-        gnupg \
-        ca-certificates \
-        curl \
-        software-properties-common \
-        apt-transport-https && \
-    curl -fsSL https://cloud.r-project.org/bin/linux/debian/bookworm-cran40/cran.gpg | gpg --dearmor -o /usr/share/keyrings/cran.gpg && \
-    echo "deb [signed-by=/usr/share/keyrings/cran.gpg] https://cloud.r-project.org/bin/linux/debian bookworm-cran40/" > /etc/apt/sources.list.d/cran.list && \
-    apt-get update && \
-    DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends r-base
+    apt-get install -y curl gpg
+
+# Set the desired R version
+ENV R_VERSION=4.4.0
+
+# Download and install R from Posit's repository
+RUN curl -LO https://cdn.rstudio.com/r/debian-12/pkgs/r-${R_VERSION}_1_amd64.deb && \
+    apt-get install -y ./r-${R_VERSION}_1_amd64.deb && \
+    rm r-${R_VERSION}_1_amd64.deb
+
+ENV PATH="/opt/R/${R_VERSION}/bin:${PATH}"
 
 # Download the latest installer
 ADD https://astral.sh/uv/install.sh /uv-installer.sh
