@@ -34,7 +34,7 @@ Auf Basis der [Schweizer Accessibility-Checkliste 2.1](https://a11y.digitaldialo
 [^1]: Grundlage ist eine Vorabversion der Checkliste, abgerufen am 10.03.2025. Laut Beschreibung von *Zugang für alle* sind die Inhalte und Erfolgskriterien bereits vollständig erhalten. Noch ausgebaut werden noch Navigationsmöglichkeiten und Verknüpfungen für die Inhalte auf der [a11y.check-Webseite](https://a11y.digitaldialog.swiss/de/163).
 
 ::: {.callout-tip title="WCAG 2.1-Checkliste (Markdown-Vorlage) zum Kopieren" icon="false" collapse="true"}
-```{.markdown}
+``` markdown
 | Success | Failure | N/A | Unclear | Warning |
 | :---: | :---: | :---: | :---: | :---: |
 | ✅ | ❌ | ❎ | ❓ | ⚠️ |
@@ -435,7 +435,7 @@ Auf Basis der [Schweizer Accessibility-Checkliste 2.1](https://a11y.digitaldialo
 
 ### UI Design
 
-Der Anspruch auf inklusive Gestaltung der digitalen Produkte von Stadt.Geschichte.Basel umfasst neben der Erfüllung der WCAG-Guidelines auch weitere die Nutzer*\innenoberfläche betreffende Aspekte.
+Der Anspruch auf inklusive Gestaltung der digitalen Produkte von Stadt.Geschichte.Basel umfasst neben der Erfüllung der WCAG-Guidelines auch weitere die Nutzer\*\innenoberfläche betreffende Aspekte.
 
 #### Struktur
 
@@ -452,7 +452,7 @@ Neben der Gewährleistung einer barrierefreien Zugänglichkeit sollen die verwen
 Für die Konzeption der Online-Angebote sind aus Accessibility-Perspekte die WCAG-Standards zentral. Zusätzlich sind die Gestaltungsprinzipien des [Neurodiversity Design System](https://neurodiversity.design) von Will Soward in die Überlegungen [eingeflossen](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch/issues/107), wurden jedoch im Zweifel hinter andere Anforderungen zurückgestellt.
 
 ::: {.callout-tip title="Neurodiversity Design System-Checkliste (Markdown-Vorlage) zum Kopieren" icon="false" collapse="true"}
-```{.markdown}
+``` markdown
 #### Numbers
 
 | guideline | status | comment | tasks | notes |
@@ -523,7 +523,6 @@ Für die Konzeption der Online-Angebote sind aus Accessibility-Perspekte die WCA
 | use animation to indicate progress/waiting times |  |  |  |  |
 | let user trigger movement, no auto-play |  |  |  |  |
 | provide option to turn off animations |  |  |  |  |
-
 ```
 :::
 
@@ -533,7 +532,7 @@ Wir bemühen uns, die Online-Angebote von Stadt.Geschichte.Basel gemäss den akt
 
 Die Barrierefreiheitserklärung von Stadt.Geschichte.Basel wurde auf Basis der Barrierefreiheitserklärungen der [Stiftung Zugang für alle](https://access-for-all.ch/barrierefreiheitserklaerung/) sowie der [ETH Zürich](https://ethz.ch/de/footer/barrierefreiheitserkl%C3%A4rung.html) erstellt.
 
-## **Inklusive Sprache**  
+## **Inklusive Sprache**
 
 Unsere Inhalte in Blog und sozialen Netzwerken sollen für möglichst viele Menschen zugänglich sein. Deshalb achten wir auf eine verständliche Sprache, die Vermeidung von Fachjargon, alternative Textbeschreibungen für Bilder sowie eine lesefreundliche Formatierung. Zudem stellen wir sicher, dass Videos möglichst mit Untertiteln versehen sind und Verlinkungen eindeutig beschrieben werden. Diese Prinzipien sind in unseren [Richtlinien für den Blog und Soziale Medien](../richtlinien/index.qmd#richtlinien-für-den-blog-und-für-soziale-medien) und in der [Regelung für geschlechtersensible Sprache](../richtlinien/index.qmd#regelung-für-geschlechtersensible-sprache) festgeschrieben.
 
@@ -541,7 +540,7 @@ Unsere Inhalte in Blog und sozialen Netzwerken sollen für möglichst viele Mens
 
 Die vom Team für Forschungsdatenmanagement erstellten Abbildungen für die Printausgabe von Stadt.Geschichte.Basel sind [Karten](../../research-data/geodata/index.qmd) sowie [Diagramme](../../research-data/plots/index.qmd). Auch für diese Abbildungen gilt das Ziel, Barrierefreiheit und Zugänglichkeit in Bild- und Formensprache zu verankern. Noch stärker als im Kontext der Online-Angebote musste hier Rücksicht auf gestalterische und drucktechnische Vorgaben seitens des Verlags und der Buchgestalter\*innen genommen werden. Dazu wurde ein [Farbkonzept](../farbkonzept/index.qmd) erarbeitet.
 
-* Die **Abmessungen** der Abbildungen richten sich nach dem Layoutkonzept sowie nach dem darin verfügbaren Platz, arrangiert durch die Buchgestalter\*innen.
-* Die zu vermittelnden Inhalte bzw. historischen Argumente werden von den Autor\*innen definiert und hängen stark von den zur Verfügung gestellten **Grundlagendaten** ab. Der zur Verfügung stehende Platz im Buch definiert die technisch mögliche bzw. nötige Auflösung der abgebildeten Daten.
-* Die verwendeten **Farben** müssen im Farbraum CMYK definiert sein. Sie sollen in Abbildungen (z.B. in Skalen) auch für Menschen mit Sehbeeinträchtigungen unterscheidbar sein und müssen daher in Kombinationen Mindestanforderungen an Kontrastwerte entsprechen.
-* Zusätzlich soll eine visuelle Einheit erkennbar sein -- einerseits in Bezug auf die Kennfarbe des jeweiligen Bandes, andererseits auch bandübergreifend. Dahingehend spielt auch die **Farbsemantik** eine wichtige Rolle. So werden etwa Gewässer in Blau dargestellt, wobei der jeweilige Blauton variiert, je nach dem, ob Flächen (Meere) oder z.B. Linien (Flüsse) dargestellt werden. Auch für Glaubensgemeinschaften werden herkömmliche Farben verwendet (z.B. Grüntöne für den Islam). Vermieden wurden dagegen Farbkombinationen, die genderspezifische Klischees reproduzieren (z.B. Blau/Rot-Kombinationen für Mann/Frau-Dichotomien).
+-   Die **Abmessungen** der Abbildungen richten sich nach dem Layoutkonzept sowie nach dem darin verfügbaren Platz, arrangiert durch die Buchgestalter\*innen.
+-   Die zu vermittelnden Inhalte bzw. historischen Argumente werden von den Autor\*innen definiert und hängen stark von den zur Verfügung gestellten **Grundlagendaten** ab. Der zur Verfügung stehende Platz im Buch definiert die technisch mögliche bzw. nötige Auflösung der abgebildeten Daten.
+-   Die verwendeten **Farben** müssen im Farbraum CMYK definiert sein. Sie sollen in Abbildungen (z.B. in Skalen) auch für Menschen mit Sehbeeinträchtigungen unterscheidbar sein und müssen daher in Kombinationen Mindestanforderungen an Kontrastwerte entsprechen.
+-   Zusätzlich soll eine visuelle Einheit erkennbar sein -- einerseits in Bezug auf die Kennfarbe des jeweiligen Bandes, andererseits auch bandübergreifend. Dahingehend spielt auch die **Farbsemantik** eine wichtige Rolle. So werden etwa Gewässer in Blau dargestellt, wobei der jeweilige Blauton variiert, je nach dem, ob Flächen (Meere) oder z.B. Linien (Flüsse) dargestellt werden. Auch für Glaubensgemeinschaften werden herkömmliche Farben verwendet (z.B. Grüntöne für den Islam). Vermieden wurden dagegen Farbkombinationen, die genderspezifische Klischees reproduzieren (z.B. Blau/Rot-Kombinationen für Mann/Frau-Dichotomien).
