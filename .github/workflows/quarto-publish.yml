@@ -77,8 +77,10 @@ jobs:
 
       # - name: Install the project
       #   run: uv sync
-      - name: Prefer binary packages in R session
-        run: echo 'options(pkgType="binary")' >> ~/.Rprofile
+      - name: Prefer binary packages in R session for base R and pak
+        run: |
+          echo 'options(pkgType="binary")' >> ~/.Rprofile
+          echo 'options(pak.prefer_binary = TRUE)' >> ~/.Rprofile
 
       - name: Setup R
         uses: r-lib/actions/setup-r@v2
