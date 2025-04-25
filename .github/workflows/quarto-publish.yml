@@ -86,17 +86,18 @@ jobs:
           echo 'options(pkgType = "binary")' >> ~/.Rprofile
           echo 'options(pak.prefer_binary = TRUE)' >> ~/.Rprofile
 
-          # Environment variables for renv and package compilation
+          # Environment variables for renv/pak behavior
           echo "RENV_CONFIG_PAK_ENABLED=true" >> $GITHUB_ENV
           echo "RENV_CONFIG_PREFER_BINARY=true" >> $GITHUB_ENV
           echo "RENV_CONFIG_PACKAGE_CACHE=true" >> $GITHUB_ENV
 
-          export CPPFLAGS="-I$(brew --prefix gettext)/include"
-          export LDFLAGS="-L$(brew --prefix gettext)/lib"
+          # Compiler flags for Matrix
+          echo "CPPFLAGS=-I$(brew --prefix gettext)/include" >> $GITHUB_ENV
+          echo "LDFLAGS=-L$(brew --prefix gettext)/lib" >> $GITHUB_ENV
 
-          # Persist for current step (required by R subprocesses)
-          echo "CPPFLAGS=$CPPFLAGS" >> $GITHUB_ENV
-          echo "LDFLAGS=$LDFLAGS" >> $GITHUB_ENV
+          # Also write to Renviron.site for visibility to R subprocesses
+          echo "CPPFLAGS=-I$(brew --prefix gettext)/include" >> ~/.Renviron
+          echo "LDFLAGS=-L$(brew --prefix gettext)/lib" >> ~/.Renviron
 
       - uses: r-lib/actions/setup-renv@v2
         with:
