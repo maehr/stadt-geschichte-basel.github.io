@@ -48,7 +48,7 @@ We recommend using **GitHub Codespaces** for the easiest and fastest setup. It g
 5. Once the Codespace is ready, you can preview the documentation locally inside the Codespace with:
 
    - **Open a terminal** in the Codespace (Terminal > New Terminal).
-   - **Run the following command** to install all dependencies:
+   - **Run the following command** to install all dependencies and preview the project:
 
 ```bash
 uv run quarto preview
@@ -58,8 +58,12 @@ uv run quarto preview
   <img src="docs/assets/img_terminal.png" alt="Terminal" style="width: 540px; margin: 1em 0;" />
 </div>
 
+---
+
+### 🛠️ Local Setup
+
 <details>
-<summary>👩‍💻 Setup locally (Advanced users)</summary>
+<summary>👩‍💻 Recommended for advanced users</summary>
 
 ### Prerequisites
 
