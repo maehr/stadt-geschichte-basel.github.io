@@ -90,7 +90,7 @@ jobs:
           echo "RENV_CONFIG_PAK_ENABLED=true" >> $GITHUB_ENV
           echo "RENV_CONFIG_PREFER_BINARY=true" >> $GITHUB_ENV
           echo "RENV_CONFIG_PACKAGE_CACHE=true" >> $GITHUB_ENV
-          echo "CPPFLAGS=-I$(brew --prefix gettext)/include" >> $GITHUB
+          echo "CPPFLAGS=-I$(brew --prefix gettext)/include" >> $GITHUB_ENV
 
       - uses: r-lib/actions/setup-renv@v2
         with:
