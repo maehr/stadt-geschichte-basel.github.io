@@ -26,9 +26,9 @@ code-links:
 
 Das [GitHub-Repository von Stadt.Geschichte.Basel](https://github.com/Stadt-Geschichte-Basel/) dient als zentrale Plattform für die Entwicklung und Verwaltung der digitalen Projekte rund um die Basler Stadtgeschichte. Hier werden verschiedene Repositories gepflegt, darunter:
 
--   [stadtgeschichtebasel.ch](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch): Der Open-Source-Code des digitalen Portals von Stadt.Geschichte.Basel, entwickelt mit SvelteKit und gehostet auf Cloudflare Pages.
+- [stadtgeschichtebasel.ch](https://github.com/Stadt-Geschichte-Basel/stadtgeschichtebasel.ch): Der Open-Source-Code des digitalen Portals von Stadt.Geschichte.Basel, entwickelt mit SvelteKit und gehostet auf Cloudflare Pages.
 
--   [forschung.stadtgeschichtebasel.ch](https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch): Der Quellcode der Forschungsdatenplattform, basierend auf CollectionBuilder-CSV und gehostet auf GitHub Pages.
+- [forschung.stadtgeschichtebasel.ch](https://github.com/Stadt-Geschichte-Basel/forschung.stadtgeschichtebasel.ch): Der Quellcode der Forschungsdatenplattform, basierend auf CollectionBuilder-CSV und gehostet auf GitHub Pages.
 
 Für die Zusammenarbeit setzt das Team auf einen [Fork-and-Pull-Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962) Externe Beitragende können das Repository forken, Änderungen vornehmen und anschliessend Pull Requests einreichen. Dieses Vorgehen ermöglicht eine kontrollierte Integration von Beiträgen und fördert eine offene Entwicklungskultur.
 

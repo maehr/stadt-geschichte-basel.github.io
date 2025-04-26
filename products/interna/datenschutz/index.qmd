@@ -1,23 +1,23 @@
 ---
 title: Datenschutzerklärung
 category: Interna
-author: 
-- name: Cristina Münch
-  affiliation: Universität Basel
-  orcid: 0000-0003-3885-248X
-- name: Nico Görlich
-  affiliation: Universität Basel
-  orcid: 0000-0003-3860-1488
-- name: Moritz Mähr
-  email: moritz.maehr@gmail.com
-  affiliation: Universität Basel
-  orcid: 0000-0002-1367-1618
-- name: Moritz Twente
-  affiliation: Universität Basel
-  orcid: 0009-0005-7187-9774
-  email: mtwente@protonmail.com
+author:
+  - name: Cristina Münch
+    affiliation: Universität Basel
+    orcid: 0000-0003-3885-248X
+  - name: Nico Görlich
+    affiliation: Universität Basel
+    orcid: 0000-0003-3860-1488
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    affiliation: Universität Basel
+    orcid: 0000-0002-1367-1618
+  - name: Moritz Twente
+    affiliation: Universität Basel
+    orcid: 0009-0005-7187-9774
+    email: mtwente@protonmail.com
 date: August 2023
-date-format: "MMMM YYYY"
+date-format: 'MMMM YYYY'
 lang: de-CH
 ---
 
@@ -41,11 +41,11 @@ Die Nutzung bestimmter Angebote auf den Webseiten <https://stadtgeschichtebasel.
 
 Sofern und soweit die Europäische Datenschutzgrundverordnung (DSGVO) zur Anwendung kommt, bearbeiten wir die Daten:
 
--   aufgrund gesetzlicher Vorgaben (Art. 6 Abs. 1 lit. c DSGVO) oder im öffentlichen Interesse (Art. 6 Abs. 1 lit. e DSGVO),
--   aufgrund Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO),
--   zur Erfüllung von vertraglichen Pflichten sowie zur Durchführung entsprechender vorvertraglicher Massnahmen (Art. 6 Abs. 1 lit. b DSGVO),
--   um die berechtigten Interessen von uns oder von Dritten zu wahren (Art. 6 Abs. 1 lit. f DSGVO),
--   um allenfalls lebenswichtige Interessen von Ihnen oder einer anderen natürlichen Person zu schützen (Art. 6 Abs. 1 lit. d DSGVO).
+- aufgrund gesetzlicher Vorgaben (Art. 6 Abs. 1 lit. c DSGVO) oder im öffentlichen Interesse (Art. 6 Abs. 1 lit. e DSGVO),
+- aufgrund Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO),
+- zur Erfüllung von vertraglichen Pflichten sowie zur Durchführung entsprechender vorvertraglicher Massnahmen (Art. 6 Abs. 1 lit. b DSGVO),
+- um die berechtigten Interessen von uns oder von Dritten zu wahren (Art. 6 Abs. 1 lit. f DSGVO),
+- um allenfalls lebenswichtige Interessen von Ihnen oder einer anderen natürlichen Person zu schützen (Art. 6 Abs. 1 lit. d DSGVO).
 
 Allfällige Einwilligungen, die Sie uns zu bestimmten Dienstleistungen gegeben haben, können Sie jederzeit mit Wirkung für die Zukunft widerrufen. Bereits angefallene personenbezogene Daten werden gelöscht, wenn sie für die Zwecke, für die die Daten erhoben wurden, nicht mehr erforderlich sind. An Stelle der Löschung tritt die Sperrung der Daten, sofern einer Löschung gesetzliche oder vertragliche Gründe entgegenstehen.
 
@@ -69,46 +69,46 @@ Wir binden Dienste von Dritten ein, achten dabei auf die Grundsätze des Datensc
 
 #### ArcGIS Storymaps
 
--   Zweck: Einbindung von Multimediainhalten
--   URL: <https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview>
--   Datenschutzerklärung: <https://www.esri.com/de-de/privacy/privacy-statements/privacy-statement> und <https://www.esri.com/de-de/privacy/privacy-statements/privacy-supplement>
+- Zweck: Einbindung von Multimediainhalten
+- URL: <https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview>
+- Datenschutzerklärung: <https://www.esri.com/de-de/privacy/privacy-statements/privacy-statement> und <https://www.esri.com/de-de/privacy/privacy-statements/privacy-supplement>
 
 #### Cloudflare
 
--   Zweck: Hosting und Sicherheit
--   URL: <https://www.cloudflare.com/>
--   Datenschutzerklärung: <https://www.cloudflare.com/en-gb/privacypolicy/>
+- Zweck: Hosting und Sicherheit
+- URL: <https://www.cloudflare.com/>
+- Datenschutzerklärung: <https://www.cloudflare.com/en-gb/privacypolicy/>
 
 #### Geovistory
 
--   Zweck: Einbindung von Multimediainhalten
--   URL: <https://www.geovistory.org/>
--   Datenschutzerklärung: <https://docs.geovistory.com/pricing-and-administration/terms-of-service-and-data-privacy>
+- Zweck: Einbindung von Multimediainhalten
+- URL: <https://www.geovistory.org/>
+- Datenschutzerklärung: <https://docs.geovistory.com/pricing-and-administration/terms-of-service-and-data-privacy>
 
 #### GitHub
 
--   Zweck: Hosting und Versionsverwaltung
--   URL: <https://github.com>
--   Datenschutzerklärung: <https://docs.github.com/en/github/site-policy/github-privacy-statement>
+- Zweck: Hosting und Versionsverwaltung
+- URL: <https://github.com>
+- Datenschutzerklärung: <https://docs.github.com/en/github/site-policy/github-privacy-statement>
 
 #### Plausible.io
 
--   Zweck: Web-Analyse
--   URL: <https://plausible.io/>
--   Datenschutzerklärung: <https://plausible.io/privacy>
+- Zweck: Web-Analyse
+- URL: <https://plausible.io/>
+- Datenschutzerklärung: <https://plausible.io/privacy>
 
 #### SwissTopo
 
--   Zweck: Darstellung einer interaktiven Karte
--   URL: <https://www.swisstopo.admin.ch/>
--   Datenschutzerklärung: <https://www.swisstopo.admin.ch/de/rechtliches>
--   Allgemeine Nutzungsbdingungen: <https://www.geo.admin.ch/de/allgemeine-nutzungsbedingungen-bgdi/>
+- Zweck: Darstellung einer interaktiven Karte
+- URL: <https://www.swisstopo.admin.ch/>
+- Datenschutzerklärung: <https://www.swisstopo.admin.ch/de/rechtliches>
+- Allgemeine Nutzungsbdingungen: <https://www.geo.admin.ch/de/allgemeine-nutzungsbedingungen-bgdi/>
 
 #### Vimeo
 
--   Zweck: Einbindung von Multimediainhalten (Videodateien)
--   URL: <https://vimeo.com/>
--   Datenschutzerklärung: <https://vimeo.com/privacy>
+- Zweck: Einbindung von Multimediainhalten (Videodateien)
+- URL: <https://vimeo.com/>
+- Datenschutzerklärung: <https://vimeo.com/privacy>
 
 ### Sind Ihre Daten sicher?
 
@@ -128,11 +128,11 @@ Die Stiftung Stadt.Geschichte.Basel hat Webseiten, die auf den Webseiten <https:
 
 Nutzerinnen und Nutzer den Webseiten <https://stadtgeschichtebasel.ch> und <https://forschung.stadtgeschichtebasel.ch>, über die wir personenbezogene Daten bearbeiten, haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht
 
--   auf unentgeltliche Bestätigung, ob personenbezogene Daten durch die Stiftung Stadt.Geschichte.Basel bearbeitet werden (§25 und §26 IDG),
--   auf Auskunft über allfällig gespeicherte Daten, auf Einschränkung der Bearbeitung der Daten,
--   auf Datenübertragung, sofern und soweit die DSGVO anwendbar ist, auf Berichtigung, Sperrung oder Löschung dieser Daten,
--   auf Widerruf einer allfällig erteilten Einwilligung,
--   auf Widerspruch gegen die Bearbeitung ihrer personenbezogenen Daten.
+- auf unentgeltliche Bestätigung, ob personenbezogene Daten durch die Stiftung Stadt.Geschichte.Basel bearbeitet werden (§25 und §26 IDG),
+- auf Auskunft über allfällig gespeicherte Daten, auf Einschränkung der Bearbeitung der Daten,
+- auf Datenübertragung, sofern und soweit die DSGVO anwendbar ist, auf Berichtigung, Sperrung oder Löschung dieser Daten,
+- auf Widerruf einer allfällig erteilten Einwilligung,
+- auf Widerspruch gegen die Bearbeitung ihrer personenbezogenen Daten.
 
 Diesbezüglich können Sie sich jederzeit an unsere Kontaktadresse wenden: Moritz Mähr, [moritz.maehr\@unibas.ch](mailto:moritz.maehr@unibas.ch)
 

@@ -2,11 +2,11 @@
 title: Die Geschichte von Basel ins Netz stellen
 subtitle: Beteiligung relevanter Anspruchsgruppen an der Entwicklung eines nachhaltigen und offenen Public-History-Portals
 category: Publikation
-author: 
-- name: Moritz Mähr
-  email: moritz.maehr@unibas.ch
-  affiliation: Universität Basel
-  orcid: 0000-0002-1367-1618
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@unibas.ch
+    affiliation: Universität Basel
+    orcid: 0000-0002-1367-1618
 date: 2024-05-01
 lang: de-DE
 doi: 10.14361/9783839469675-007
@@ -20,6 +20,7 @@ other-links:
 ---
 
 ::: {.callout-tip title="Kapitel anzeigen" icon="false" collapse="true"}
+
 <iframe src="/assets/files/9783839469675-007.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Die Geschichte von Basel ins Netz stellen">
 
 This browser does not support PDFs. Please download the PDF <a href="/assets/files/9783839469675-007.pdf">download the PDF</a> to view it.

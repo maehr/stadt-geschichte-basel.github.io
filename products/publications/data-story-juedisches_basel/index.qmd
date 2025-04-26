@@ -43,13 +43,13 @@ Durch das Abschliessen von Kapiteln erhalten Nutzer\*innen Zugang zu weiteren Ab
 
 ### Methodik und Digitale Umsetzung
 
--   **Interaktives Storytelling:** Kombination aus **historischen Texten, Bildern und Rätseln**, um Inhalte aktiv erfahrbar zu machen.\
--   **Gamification:** Spielerischer Ansatz zur Wissensvermittlung durch das **Freischalten von Inhalten**.\
--   **Digitale Infrastruktur:**
-    -   Entwickelt von **KleioLab GmbH**\
-    -   Nutzung von **Web-Technologien** für mobile und browserbasierte Interaktion\
-    -   **Design und Programmierung:** David Knecht, Jonas Schneider\
-    -   **Projektleitung:** Moritz Mähr (Stadt.Geschichte.Basel)
+- **Interaktives Storytelling:** Kombination aus **historischen Texten, Bildern und Rätseln**, um Inhalte aktiv erfahrbar zu machen.\
+- **Gamification:** Spielerischer Ansatz zur Wissensvermittlung durch das **Freischalten von Inhalten**.\
+- **Digitale Infrastruktur:**
+  - Entwickelt von **KleioLab GmbH**\
+  - Nutzung von **Web-Technologien** für mobile und browserbasierte Interaktion\
+  - **Design und Programmierung:** David Knecht, Jonas Schneider\
+  - **Projektleitung:** Moritz Mähr (Stadt.Geschichte.Basel)
 
 ### Bedeutung und Fazit
 
