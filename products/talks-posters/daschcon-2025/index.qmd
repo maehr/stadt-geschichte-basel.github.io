@@ -12,7 +12,7 @@ author:
     orcid: 0009-0005-7187-9774
     affiliation: Universität Basel
 date: 2025-10-15
-# doi:
+doi: 10.5281/zenodo.17357300
 categories: Vortrag
 event: DaSCHCon 2025, MFK Bern
 lang: de
@@ -41,15 +41,14 @@ other-links:
 Der Vortrag ist Teil der Vormittags-Session an der [DaSCHCon 2025](https://www.dasch.swiss/post/daschcon-2025-cultural-institutions-in-the-digital-age-the-future-of-infrastructures) im Museum für Kommunikation in Bern.
 
 ```{=html}
-<!-- ::: {.callout-tip title="Präsentation anzeigen (Vorschau)" icon="false" collapse="true"}
+::: {.callout-tip title="Präsentation anzeigen (Vorschau)" icon="false" collapse="true"}
 
-<iframe src="/assets/files/FIXME.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="A Long-Term Archival Pipeline for the Forschungsdatenplattform Stadt.Geschichte.Basel">
+<iframe src="/assets/files/251015-Mähr_Twente-SGB.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="A Long-Term Archival Pipeline for the Forschungsdatenplattform Stadt.Geschichte.Basel">
 
-This browser does not support PDFs. Please <a href="/assets/files/FIXME.pdf">download the PDF</a> to view it.
+This browser does not support PDFs. Please <a href="/assets/files/251015-Mähr_Twente-SGB.pdf">download the PDF</a> to view it.
 
 </iframe>
 :::
--->
 ```
 
 ## Abstract
