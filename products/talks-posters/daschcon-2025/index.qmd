@@ -43,16 +43,14 @@ other-links:
 
 Der Vortrag ist Teil der Vormittags-Session an der [DaSCHCon 2025](https://www.dasch.swiss/post/daschcon-2025-cultural-institutions-in-the-digital-age-the-future-of-infrastructures) im Museum für Kommunikation in Bern.
 
-```{=html}
-::: {.callout-tip title="Präsentation anzeigen (Vorschau)" icon="false" collapse="true"}
+::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
 
-<iframe src="/assets/files/251015-Mähr_Twente-SGB.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="A Long-Term Archival Pipeline for the Forschungsdatenplattform Stadt.Geschichte.Basel">
+<iframe src="/assets/files/251015-Maehr_Twente-SGB.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="A Long-Term Archival Pipeline for the Forschungsdatenplattform Stadt.Geschichte.Basel">
 
 This browser does not support PDFs. Please <a href="/assets/files/251015-Mähr_Twente-SGB.pdf">download the PDF</a> to view it.
 
 </iframe>
 :::
-```
 
 ## Abstract
 
