@@ -4,9 +4,17 @@ subtitle: "50’000 Jahre Stadtgeschichte in 21 kurzen Episoden"
 categories: Publikation
 author:
 - name: Lea Kamber
+  affiliation: Radio X
+  email: office@radiox.ch
 - name: Ben Haab
+  affiliation: Radio X
+  email: office@radiox.ch
 - name: Luzius Bauer
-- name: Thomas Jenn
+  affiliation: Radio X
+  email: office@radiox.ch
+- name: Thomas Jenny
+  affiliation: Radio X
+  email: office@radiox.ch
 date: 2025-09-24
 lang: de-CH
 doi: 10.5281/zenodo.17196118
@@ -23,9 +31,10 @@ other-links:
 ---
 
 ::: {.callout-tip title="Podcast hören" icon="false" collapse="true"}
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/5u1pwKQT2jZ1hru3mrRpHP?utm_source=generator&theme=0&t=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/5u1pwKQT2jZ1hru3mrRpHP?utm_source=generator&amp;theme=0&amp;t=0" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
 
 Falls dieses Browser keine iframes unterstützt, hören Sie den Podcast bitte <a href="https://open.spotify.com/show/5u1pwKQT2jZ1hru3mrRpHP">auf Spotify</a>.
+
 </iframe>
 :::
 
