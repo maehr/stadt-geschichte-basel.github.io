@@ -24,7 +24,7 @@ appendix-cite-as: display
 other-links:
   - text: Veranstaltungswebseite
     icon: house
-    href: 'https://www.dasch.swiss/post/daschcon-2025-cultural-institutions-in-the-digital-age-the-future-of-infrastructures/'
+    href: 'https://ark.dasch.swiss/ark:/72163/1/0810/naIIpZ4rRsmVGFg6GTMx1gW.20251023T075703949264477Z/'
   - text: Konferenzprogramm
     icon: calendar4-range
     href: 'https://ark.dasch.swiss/ark:/72163/1/0810/UEtpksyaRPeobZ_S41IhnA5.20250827T145742276838562Z'
@@ -34,6 +34,12 @@ other-links:
   - text: omeka2dsp Pipeline
     icon: arrow-up-right-circle
     href: '/products/coding/omeka2dsp/index.html'
+  - text: Slides (DaSCH Service Platform)
+    icon: file-pdf
+    href: 'https://ark.dasch.swiss/ark:/72163/1/0810/I0K23BrbRQGgTuIwmz9V2Af.20251023T073212070327596Z'
+  - text: Slides (Zenodo)
+    icon: file-pdf
+    href: 'https://doi.org/10.5281/zenodo.17357300'
   - text: infoclio.ch Report
     icon: newspaper
     href: 'https://www.infoclio.ch/fr/dasschcon-2025-cultural-institutions-digital-age-future-infrastructures'
@@ -41,7 +47,7 @@ other-links:
 
 ## Vortrag
 
-Der Vortrag ist Teil der Vormittags-Session an der [DaSCHCon 2025](https://www.dasch.swiss/post/daschcon-2025-cultural-institutions-in-the-digital-age-the-future-of-infrastructures) im Museum für Kommunikation in Bern.
+Der Vortrag ist Teil der Vormittags-Session an der [DaSCHCon 2025](https://ark.dasch.swiss/ark:/72163/1/0810/naIIpZ4rRsmVGFg6GTMx1gW.20251023T075703949264477Z) im Museum für Kommunikation in Bern.
 
 ::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
 
