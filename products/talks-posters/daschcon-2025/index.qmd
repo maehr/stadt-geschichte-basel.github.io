@@ -34,6 +34,9 @@ other-links:
   - text: omeka2dsp Pipeline
     icon: arrow-up-right-circle
     href: '/products/coding/omeka2dsp/index.html'
+  - text: infoclio.ch Report
+    icon: newspaper
+    href: 'https://www.infoclio.ch/fr/dasschcon-2025-cultural-institutions-digital-age-future-infrastructures'
 ---
 
 ## Vortrag
