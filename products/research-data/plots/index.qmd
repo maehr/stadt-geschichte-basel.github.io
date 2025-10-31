@@ -100,7 +100,7 @@ Von den Rohdaten als Input bis zur veröffentlichten Abbildung spielen eine Reih
 
 ### Software {#software}
 
-Alle Diagramme werden mit [R](https://www.r-project.org/) erstellt. Zusätzlich zu [ggplot2](https://ggplot2.tidyverse.org/) [@wickhamGgplot2ElegantGraphics2016] und anderen Teilen des [tidyverse](https://www.tidyverse.org/) verwendet dieses Projekt mehrere Packages für die Datenverarbeitung und -visualisierung, darunter [here](https://here.r-lib.org/index.html) [@mullerHereSimplerWay2020] und [renv](https://rstudio.github.io/renv/index.html) [@usheyRenvProjectEnvironments2025] zur Bereitstellung einer [reproduzierbaren Umgebung](https://book.the-turing-way.org/reproducible-research/renv/) sowie [csvwr](https://robsteranium.github.io/csvwr/) [@gowerCsvwrReadWrite2022] zur Erstellung von Metadatendateien.
+Alle Diagramme werden mit [R](https://www.r-project.org/) erstellt. Zusätzlich zu [ggplot2](https://ggplot2.tidyverse.org/) [@wickhamGgplot2ElegantGraphics2016] und anderen Teilen des [tidyverse](https://www.tidyverse.org/) verwendet dieses Projekt mehrere Packages für die Datenverarbeitung und -visualisierung, darunter [here](https://here.r-lib.org/index.html) [@mullerHereSimplerWay2020] und [renv](https://rstudio.github.io/renv/index.html) [@usheyRenvProjectEnvironments2025] zur Bereitstellung einer [reproduzierbaren Umgebung](https://book.the-turing-way.org/reproducible-research/renv/).
 
 Code, Daten und Dokumentation werden zur [Versionsverwaltung](https://book.the-turing-way.org/reproducible-research/vcs/) in git eingecheckt und in einem [GitHub](https://github.com)-Repository gespeichert. Mit [prettier](https://prettier.io/) [@longPrettierOpinionatedCode2025] wird der Programmcode formatiert. Für R-Skripte werden zu diesem Zweck [styler](https://styler.r-lib.org/) [@mullerStylerNonInvasivePretty2024] und [lintr](https://lintr.r-lib.org/) [@hesterLintrLinterCode2025] eingesetzt. Die R-Umgebung einschließlich aller erforderlichen Pakete kann mit der Datei `renv.lock`[^1] wiederhergestellt werden. Die Dokumentation wird mit [Quarto](https://quarto.org) [@allaireQuarto2022] gerendert und auf [GitHub Pages](https://pages.github.com) gehostet.
 
@@ -167,7 +167,7 @@ Anwender\*innen können einige [npm-Skripte](https://docs.npmjs.com/cli/v8/using
 
 Metadaten für die auf der Forschungsdatenplattform vorgestellten Elemente werden gemäss einem Datenmodell bereitgestellt, das vom Team für Forschungdatenmanagement der Stadt.Geschichte.Basel entwickelt wurde, um den Anforderungen der vielfältigen im Projekt verwendeten Quellen gerecht zu werden. Das Datenmodell (und der anschliessende Annotationsprozess) folgen dem [Handbuch zur Erstellung diskriminerungsfreier Metadaten für historische Quellen und Forschungsdaten](https://maehr.github.io/diskriminierungsfreie-metadaten) [@maehrHandbuchZurErstellung2024a], das ebenfalls von Stadt.Geschichte.Basel entwickelt wurde.
 
-Für die Datensätze in sgb-figures wurde das Datenmodell von Stadt.Geschichte.Basel geringfügig angepasst, um auf die abweichenden Anforderungen an die Veröffentlichung tabellarischer Daten reagieren zu können. Dazu wurden die Empfehlungen des W3C-Standards für tabellarische Daten und Metadaten im Internet [@w3cModelTabularData2022] konsultiert und mit dem [csvwr](https://robsteranium.github.io/csvwr) package [@gowerCsvwrReadWrite2022] implementiert.
+Für die Datensätze in sgb-figures wurde das Datenmodell von Stadt.Geschichte.Basel geringfügig angepasst, um auf die abweichenden Anforderungen an die Veröffentlichung tabellarischer Daten reagieren zu können. Dazu wurden die Empfehlungen des W3C-Standards für tabellarische Daten und Metadaten im Internet [@w3cModelTabularData2022] konsultiert.
 
 Metadaten für die `csv`-Datensätze, die im Zusammenhang mit der Grafikerstellung Verwendung finden, werden in einer separaten `json`-Datei gespeichert. Im Folgenden wird die Integration der annotierten Datensätze im sgb-figures-Repository in das Datenmodell von Stadt.Geschichte.Basel wieder mit dem fiktiven Beispiel-Metadatenobjekt `abb01313` illustriert.
 
@@ -180,8 +180,8 @@ Metadaten für die `csv`-Datensätze, die im Zusammenhang mit der Grafikerstellu
 classDiagram
     direction LR
 
-    class metadata["metadata json<br><i>beschreibt csv-Datei</i>"]
-    class metadata2["metadata object<br><i>beschreibt Medienobjekt(e)</i>"]
+    class metadata["metadata json<br><i>describing csv file</i>"]
+    class metadata2["metadata object<br><i>describing media object(s)</i>"]
     class media["media object"]
     class csv["csv dataset"]
 
@@ -210,7 +210,7 @@ classDiagram
         type
         format
         source
-        language &lpar;ISO 639-2 code&rpar;
+        language &lpar;ISO 639-1 code&rpar;
         [relation]
         rights
         license
@@ -235,7 +235,7 @@ classDiagram
             format
             extent
             [source] &lpar;Source and catalogue link&rpar;
-            language &lpar;ISO 639-2 code&rpar;
+            language &lpar;ISO 639-1 code&rpar;
             [relation] &lpar;internal links to other items, link to GitHub, further information&rpar;
             rights
             license
@@ -247,7 +247,7 @@ classDiagram
         [subject;subject]
         description
         temporal
-        language &lpar;ISO 639-2 code&rpar;
+        language &lpar;ISO 639-1 code&rpar;
         [isPartOf;isPartOf] &lpar;Data DOIs&rpar;
     }
     }
