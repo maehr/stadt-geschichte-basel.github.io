@@ -3,7 +3,7 @@ title: Diagramme und Statistiken
 subtitle: Datenvisualisierung mit R
 lang: de
 format:
-  html:
+  sgb-theme-html:
     mermaid:
       theme: neutral
 author:

@@ -16,7 +16,7 @@ author:
 date-modified: last-modified
 lang: de
 format:
-  html:
+  sgb-theme-html:
     mermaid:
       theme: neutral
 other-links:
