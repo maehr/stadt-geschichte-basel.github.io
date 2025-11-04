@@ -40,7 +40,7 @@ The paper *One Template to Rule Them All: Interactive Research Data Documentatio
 ::: {.callout-tip title="Show Paper" icon="false" collapse="true"}
 <iframe src="/assets/files/251022-Maehr_Twente-Template.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="One Template to Rule Them All: Interactive Research Data Documentation with Quarto">
 
-This browser does not support PDFs. Please download the PDF <a href="/assets/files/9783839469675-007.pdf">download the PDF</a> to view it.
+This browser does not support PDFs. Please download the PDF <a href="/assets/files/251022-Maehr_Twente-Template.pdf">download the PDF</a> to view it.
 
 </iframe>
 :::
