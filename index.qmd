@@ -14,7 +14,6 @@ keywords:
   - Metadaten
   - Data Stories
   - Digitale Vermittlung
-date: today
 lang: de
 listing:
   - id: showcase-reel
