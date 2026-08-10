@@ -27,10 +27,14 @@ other-links:
     href: 'https://www.zb.uzh.ch/de/events/lunch-learn-public-open-review-in-practice-experiences-from-the-living-handbook-discrimination-sensitive-metadata-practice'
 ---
 
-## Talk
+## Vortrag
+
+Eingeladener Vortrag in der Reihe [Lunch & Learn Open Science](https://www.zb.uzh.ch/de/events/lunch-learn-public-open-review-in-practice-experiences-from-the-living-handbook-discrimination-sensitive-metadata-practice) der Zentralbibliothek Zürich (online, 27.08.2026).
 
 Invited talk in the [Lunch & Learn Open Science](https://www.zb.uzh.ch/de/events/lunch-learn-public-open-review-in-practice-experiences-from-the-living-handbook-discrimination-sensitive-metadata-practice) series at the Zentralbibliothek Zürich (online, 2026-08-27).
 
 ## Abstract
+
+Der Vortrag stellt Erkenntnisse aus einem abgeschlossenen Public Open Review der zweiten Auflage des [Handbuchs zur Erstellung diskriminierungsfreier Metadaten](/products/publications/handbuch/index.qmd) vor, das nun unter dem Titel *[Diskriminierungssensible Metadatenpraxis](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/)* erscheint. Verglichen werden dieser offene Review-Ansatz mit dem geschlossenen Peer-Review-Verfahren der ersten Auflage sowie Governance, Qualitätssicherung, Community-Feedback-Prozesse, Versionierung und die Ausrichtung an den FAIR- und CARE-Prinzipien.
 
 The talk presents findings from a completed public open review of the second edition of the [Handbuch zur Erstellung diskriminierungsfreier Metadaten](/products/publications/handbuch/index.qmd), now titled *[Diskriminierungssensible Metadatenpraxis](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/)*. It compares this open-review approach with the closed peer review used for the first edition, and discusses governance, quality assurance, community feedback processes, versioning, and alignment with the FAIR and CARE principles.
