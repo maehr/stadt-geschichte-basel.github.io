@@ -1,0 +1,36 @@
+---
+title: 'Public Open Review in Practice'
+subtitle: "Experiences from the Living Handbook 'Discrimination-Sensitive Metadata Practice'"
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliations:
+        - Universität Basel
+        - Universität Bern
+  - name: Noëlle Schnegg
+    orcid: 0009-0008-5207-6652
+    email: noelle.schnegg@unibas.ch
+    affiliation: Universität Basel
+date: 2026-08-27
+categories: Vortrag
+event: Zentralbibliothek Zürich, Lunch & Learn Open Science
+lang: en
+citation:
+  type: standard
+  title: "Public Open Review in Practice: Experiences from the Living Handbook 'Discrimination-Sensitive Metadata Practice'"
+  container-title: 'Lunch & Learn Open Science, Zentralbibliothek Zürich'
+appendix-cite-as: display
+other-links:
+  - text: Event Website
+    icon: house
+    href: 'https://www.zb.uzh.ch/de/events/lunch-learn-public-open-review-in-practice-experiences-from-the-living-handbook-discrimination-sensitive-metadata-practice'
+---
+
+## Talk
+
+Invited talk in the [Lunch & Learn Open Science](https://www.zb.uzh.ch/de/events/lunch-learn-public-open-review-in-practice-experiences-from-the-living-handbook-discrimination-sensitive-metadata-practice) series at the Zentralbibliothek Zürich (online, 2026-08-27).
+
+## Abstract
+
+The talk presents findings from a completed public open review of the second edition of the [Handbuch zur Erstellung diskriminierungsfreier Metadaten](/products/publications/handbuch/index.qmd), now titled *[Diskriminierungssensible Metadatenpraxis](https://moritz-maehr.quarto.pub/diskriminierungssensible-metadatenpraxis/)*. It compares this open-review approach with the closed peer review used for the first edition, and discusses governance, quality assurance, community feedback processes, versioning, and alignment with the FAIR and CARE principles.
