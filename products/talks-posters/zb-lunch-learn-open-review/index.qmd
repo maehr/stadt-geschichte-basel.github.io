@@ -41,14 +41,22 @@ Eingeladener Vortrag in der Reihe [Lunch & Learn Open Science](https://www.zb.uz
 Invited talk in the [Lunch & Learn Open Science](https://www.zb.uzh.ch/de/events/lunch-learn-public-open-review-in-practice-experiences-from-the-living-handbook-discrimination-sensitive-metadata-practice) series at the Zentralbibliothek Zürich (online, 2026-08-27).
 :::
 
-::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
+:::: {.callout-tip title="Präsentation anzeigen" icon="false" collapse="true"}
 
 <iframe src="/assets/files/20260827-Maehr-Public_Open_Review_in_Practice.pdf" width="100%" height="600px" loading="lazy" allowfullscreen title="Public Open Review in Practice: Experiences from the Living Handbook 'Discrimination-sensitive Metadata Practice'">
 
 This browser does not support PDFs. Please <a href="/assets/files/20260827-Maehr-Public_Open_Review_in_Practice.pdf">download the PDF</a> to view it.
 
 </iframe>
+
+::: {lang="de"}
+[Präsentation als PDF herunterladen](/assets/files/20260827-Maehr-Public_Open_Review_in_Practice.pdf)
 :::
+
+::: {lang="en"}
+[Download the presentation as PDF](/assets/files/20260827-Maehr-Public_Open_Review_in_Practice.pdf)
+:::
+::::
 
 ## Abstract
 
