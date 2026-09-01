@@ -109,7 +109,7 @@ We argue that the Open Research Data Template, powered by Quarto's cross-languag
 Through this tool presentation, we aim to encourage the broader adoption of automated, executable open data documentation as a foundational practice for responsible, impactful, and sustainable Digital Humanities research.
 :::
 
-### Auf einen Blick: Technischer Fokus und Funktionen / At a Glance: Technical Focus and Features
+### [Auf einen Blick: Technischer Fokus und Funktionen]{lang="de"} / [At a Glance: Technical Focus and Features]{lang="en"}
 
 ::: {lang="de"}
 Das Open Research Data Template ermöglicht:

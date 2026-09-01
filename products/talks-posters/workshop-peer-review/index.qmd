@@ -38,7 +38,7 @@ other-links:
     href: 'https://www.infoclio.ch/en/open-access-and-open-peer-review-digital-humanities'
 ---
 
-## Workshop-Ankündigung / Workshop Announcement
+## [Workshop-Ankündigung]{lang="de"} / [Workshop Announcement]{lang="en"}
 
 ::: {lang="de"}
 Begleiten Sie die [DSI Communities Digital Humanities and Libraries](https://www.dsi.uzh.ch/de/research/communities/digital-humanities.html) beim *Workshop on Open Access, Open & Community Peer Review: Rethinking Scholarly Publishing in the Digital Humanities*, der neue Modelle des wissenschaftlichen Publizierens in den Digital Humanities erkundet. Traditionelles Publizieren stützt sich oft auf Intermediäre, was den Zugang verlangsamt und die Kosten erhöht. Dieser Workshop untersucht Wege, das Publizieren zu vereinfachen, die Transparenz zu erhöhen und die Zusammenarbeit zu fördern.
