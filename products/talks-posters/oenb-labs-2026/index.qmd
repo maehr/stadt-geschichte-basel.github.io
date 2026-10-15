@@ -1,0 +1,34 @@
+---
+title: 'Bias in Metadata'
+subtitle: Reflections from the Living Handbook on Discrimination-Sensitive Metadata Practice
+author:
+  - name: Noëlle Sarah Schnegg
+    orcid: 0009-0008-5207-6652
+    affiliations:
+      - Sciences Po, Paris
+      - Universität St. Gallen
+date: 2026-11-09
+categories: Vortrag
+event: Österreichische Nationalbibliothek, ÖNB Labs Symposium 2026 «Collections as Data – Biases as Data»
+lang: en
+citation:
+  type: standard
+  title: 'Bias in Metadata: Reflections from the Living Handbook on Discrimination-Sensitive Metadata Practice'
+  container-title: 'ÖNB Labs Symposium 2026: Collections as Data – Biases as Data, Österreichische Nationalbibliothek, Wien'
+appendix-cite-as: display
+other-links:
+  - text: Event website
+    icon: house
+    href: 'https://clariah.at/de/events/oenb-labs-symposium-2026/'
+  - text: Handbook
+    icon: book
+    href: '/products/publications/handbuch/index.html'
+---
+
+## Talk
+
+Noëlle Sarah Schnegg presents the handbook project of Stadt.Geschichte.Basel at the *ÖNB Labs Symposium 2026: Collections as Data – Biases as Data*. ÖNB Labs hosts the symposium on 9 and 10 November 2026 in the Oratorium of the Austrian National Library (Österreichische Nationalbibliothek) in Vienna. The talk is part of the session *Cultural and Algorithmic Biases* (9 November 2026, 16:30).
+
+## Abstract
+
+Metadata describe, classify, and name historical sources and research data. In doing so, metadata can repeat the biases of the sources and of the institutions that catalogue them. The talk reflects on these biases from the experience of the living handbook *Discrimination-Sensitive Metadata Practice*. The handbook grew out of the [Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten](/products/publications/handbuch/index.qmd), which Moritz Mähr and Noëlle Schnegg published in 2024 as part of the research project Stadt.Geschichte.Basel.

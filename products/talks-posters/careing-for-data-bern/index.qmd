@@ -1,0 +1,35 @@
+---
+title: Learning to See the Problem
+subtitle: Discrimination-Sensitive Metadata in Practice
+author:
+  - name: Moritz Mähr
+    email: moritz.maehr@gmail.com
+    orcid: 0000-0002-1367-1618
+    affiliation: Universität Bern
+date: 2026-12-09
+categories: Workshop
+event: Universität Bern, CAREing for Data in Dialogue
+lang: en
+citation:
+  type: standard
+  title: 'Learning to See the Problem: Discrimination-Sensitive Metadata in Practice'
+  container-title: 'CAREing for Data in Dialogue: Perspectives on Social and Cultural Data, Universität Bern'
+appendix-cite-as: display
+other-links:
+  - text: Event website
+    icon: house
+    href: 'https://dhbern.github.io/content/events/im_dialog/2026-careing-for-data-in-dialogue/'
+  - text: Course materials (OER)
+    icon: mortarboard
+    href: '/products/publications/oer-metadatenpraxis/index.html'
+---
+
+## Workshop
+
+Moritz Mähr leads a hands-on session at *CAREing for Data in Dialogue*, the seventh edition of the "… in Dialogue" series. Digital Humanities and the University Library at the University of Bern organise the event on 9 December 2026 in the Kuppelraum of the main building (H4). The session runs in parallel with a *Bring your own data* session (15:00–16:10).
+
+## Abstract
+
+The workshop asks what the CARE principles (collective benefit, authority to control, responsibility, ethics) mean for everyday metadata work. Participants first build an awareness of discrimination in and through data and metadata. They then examine concrete records, identify problematic descriptions and classifications, and discuss options for their own practice.
+
+The session uses the materials of the open educational resource [*Diskriminierungssensible Metadatenpraxis*](/products/publications/oer-metadatenpraxis/index.qmd). The OER builds on the [handbook on discrimination-sensitive metadata](/products/publications/handbuch/index.qmd) from the research project Stadt.Geschichte.Basel.
