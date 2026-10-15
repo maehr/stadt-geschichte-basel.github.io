@@ -1,6 +1,7 @@
 ---
 title: Diskriminierungssensible Metadatenpraxis
 subtitle: OER für einen Hands-on-Kurs
+description: Offene Lehrmaterialien für einen 60- bis 90-minütigen Hands-on-Kurs zu diskriminierungssensibler Metadatenpraxis, mit Facilitator Guide, Foliendeck, Metadaten-Audit und Fallkarten.
 categories: Lehrmittel
 author:
   - name: Moritz Mähr

@@ -1,6 +1,7 @@
 ---
 title: Handbuch zur Erstellung diskriminierungsfreier Metadaten für historische Quellen und Forschungsdaten
 subtitle: Digitaler Vortrag und Praxisübung «Kritische Metadaten»
+description: Vortrag und Praxisübung von Moritz Mähr und Noëlle Schnegg zum Handbuch für diskriminierungssensible Metadaten am Netzwerktag zu kolonial geprägten Bildwelten in Sammlungen, Kulturforum Berlin.
 author:
   - name: Moritz Mähr
     email: moritz.maehr@gmail.com
